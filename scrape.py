@@ -24,4 +24,4 @@ def export_data(data):
 if __name__ == '__main__':
     data = get_data("https://indianexpress.com/")
     export_data(data)
-    print("done")
+    print("Finished  exporting.")
